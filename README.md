@@ -56,3 +56,7 @@ V | V | F
 V | F | V
 F | V | V
 F | F | F
+
+# Emojis
+
+:+1: 💩 😁 👺 💠
