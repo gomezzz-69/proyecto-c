@@ -60,3 +60,16 @@ F | F | F
 # Emojis
 
 :+1: 💩 😁 👺 💠
+
+# Un pedacito de código en Python
+```python
+print("Este es un ejemplo de código en python")
+a = 5
+p = 3
+c = a+b
+print(c)
+```
+
+```powershel
+Remove-Item -recurse copia
+```
