@@ -48,3 +48,11 @@ Una lista con varios niveles de sangrado: La lunas de los planetas
 ObiWan Kenobi dijo una vez:
 > La fuerza estará contigo...
 > Siempre
+
+# Crear una tabla
+A | B | A XOR B 
+--|---|--------
+V | V | F
+V | F | V
+F | V | V
+F | F | F
